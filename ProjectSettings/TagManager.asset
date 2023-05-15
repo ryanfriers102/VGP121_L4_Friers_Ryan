@@ -51,6 +51,9 @@ TagManager:
   - name: Decorations
     uniqueID: 869252237
     locked: 0
+  - name: Hazards
+    uniqueID: 2708857183
+    locked: 0
   - name: Platforms
     uniqueID: 1920042551
     locked: 0
